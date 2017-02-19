@@ -1,5 +1,5 @@
-# Todo-app
-Sample Angular Application
+# Todo-app Setup Project
+Sample Angular Application - Setup Project
 
 Requirement : 
 
@@ -17,4 +17,4 @@ Running on : [http://localhost:3000/](http://localhost:3000/)
 
 ## Additional Docs
 
-1. Angular 1 [docs here](https://docs.angularjs.org/api)
+1. [Todo App](https://github.com/arizkyana/todo-app)
